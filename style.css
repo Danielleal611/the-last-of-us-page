@@ -62,16 +62,19 @@ li{
         height: 100%;
     }
     .container{
-        width: 100%;
+        width: 80%;
         height: 100%;
     }
     .imagen1{
         width: 65%;
         height: 65%;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
     .imagen2{
         width: 50%;
         height: 50%;
+        padding-bottom: 95px;
     }
     img{
         width: 100%;

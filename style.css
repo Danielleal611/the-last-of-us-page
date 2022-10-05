@@ -24,6 +24,7 @@ section article{
 
 section article,p{
     margin: 16px;
+    font-size: 20px;
 }
 section article,h1{
     margin: 16px;
@@ -36,16 +37,21 @@ a{
 
 .imagen1{
     float: right;
-    margin-right: 140px;
-    margin-bottom: 20px;
+    padding-right: 134px;
+    padding-bottom: 0px;
     
     
 }
 
 .imagen2{
     float: right;
-    margin-right: 180px;
-    
+    padding: 150px 180px 0px 20px;
+
+}
+
+li{
+    font-size: 20px;
+    padding-bottom: 8px;
 }
 
 

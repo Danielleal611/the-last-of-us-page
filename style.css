@@ -82,14 +82,24 @@ li{
     }
 }
 
+@media(max-width: 530px){
+    .imagen2{
+        width: 152px;
+        height: 300px;
+        
+    }
+}
+
 @media(max-width: 340px){
     .imagen1{
         width: 0%;
         height: 0%;
+        padding: 0;
     }
     .imagen2{
         width: 0%;
         height: 0%;
+        padding: 0;
     }
 }
 

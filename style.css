@@ -86,6 +86,8 @@ li{
     .imagen2{
         width: 152px;
         height: 300px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         
     }
 }

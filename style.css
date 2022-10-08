@@ -14,8 +14,9 @@ body{
 
 
 .container{
-    margin: auto;
-    max-width: 100%;
+    width: 100%;
+    max-width: 940px;
+    margin: 0 auto;
     padding: 50px;
 }
 .volver{
@@ -61,7 +62,7 @@ li{
 
 @media(max-width: 780px){
     .imgen{
-        width: 490px;
+        width: 530px;
         height: 100%;
     }
     .container{

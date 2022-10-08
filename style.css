@@ -61,11 +61,11 @@ li{
 
 @media(max-width: 780px){
     .imgen{
-        width: 530px;
+        width: 550px;
         height: 100%;
     }
     .container{
-        max-width: 100%;
+        max-width: 110%;
         height: 100%;
     }
     .imagen1{

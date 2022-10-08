@@ -15,7 +15,7 @@ body{
 
 .container{
     margin: auto;
-    width: 56%;
+    width: 50%;
 }
 .volver{
     padding-left: 15px;
@@ -23,7 +23,7 @@ body{
 section article{
     background-color: #000;
     color: #fff;
-    padding: 10px;
+    padding: 16px;
     border-radius: 8px;
 }
 

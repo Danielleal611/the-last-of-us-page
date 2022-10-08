@@ -16,7 +16,6 @@ body{
 .container{
     margin: auto;
     width: 940px;
-    padding: 50px;
 }
 .volver{
     padding-left: 15px;
@@ -61,12 +60,12 @@ li{
 
 @media(max-width: 780px){
     .imgen{
-        width: 550px;
+        width: 110%;
         height: 100%;
     }
     .container{
-        max-width: 110%;
-        height: 100%;
+        width: 110%;
+        height: 100vh;
     }
     .imagen1{
         width: 65%;

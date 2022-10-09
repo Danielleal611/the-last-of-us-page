@@ -87,15 +87,41 @@ li{
     }
 }
 
-@media(max-width: 530px){
+@media(max-width: 358px){
+    .imagen1{
+        width: 200px;
+        height: 150px;
+        padding-right: 62px;
+        padding-left: 68px;
+    }
     .imagen2{
         width: 152px;
         height: 300px;
         padding-top: 10px;
         padding-bottom: 10px;
+        padding-right: 65px;
+        padding-left: 65px;
         
     }
 }
+@media(min-width: 360px){
+    .imagen1{
+        width: 220px;
+        height: 170px;
+        padding-right: 30%;
+        padding-left: 8%;
+    }
+    .imagen2{
+        width: 152px;
+        height: 300px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 36%;
+        padding-left: 10%;
+        
+    }
+}
+
 
 @media(max-width: 340px){
     .imagen1{

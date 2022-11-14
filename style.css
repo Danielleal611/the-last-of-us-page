@@ -129,6 +129,18 @@ li{
    
 }
 
+@media(max-width: 420px){
+    .imagen1{
+        width: 200px;
+        height: 200px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 90px;
+        
+    }
+   
+}
+
 @media(max-width: 390px){
     .imagen2{
         width: 152px;

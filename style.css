@@ -141,6 +141,18 @@ li{
    
 }
 
+@media(max-width: 408px){
+    .imagen1{
+        width: 200px;
+        height: 165px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 56px;
+        
+    }
+   
+}
+
 @media(max-width: 390px){
     .imagen2{
         width: 152px;
@@ -200,10 +212,10 @@ li{
     }
     .imagen1{
         width: 200px;
-        height: 200px;
+        height: 165px;
         padding-top: 10px;
         padding-bottom: 10px;
-        padding-right: 60px;
+        padding-right: 46px;
     }
 }
 

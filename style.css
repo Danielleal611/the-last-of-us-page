@@ -19,7 +19,14 @@ body{
     width: 952px;
 }
 .volver{
-    padding-left: 15px;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    padding-top: 20px;
+}
+.derecha{
+    float: right;
+    font-size: 24px;
 }
 section article{
     background-color: #000;
@@ -230,6 +237,12 @@ li{
         height: 0%;
         padding: 0;
     }
+}
+
+i{
+    font-size: 35px;
+    color: beige;
+    
 }
 
 

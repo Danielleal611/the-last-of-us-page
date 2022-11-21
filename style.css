@@ -110,6 +110,9 @@ li{
         padding-bottom: 10px;
         padding-right: 75px;
     }
+    .volver{
+        font-size: 20px;
+    }
 }
 
 @media(max-width: 470px){
@@ -120,6 +123,9 @@ li{
         padding-bottom: 10px;
         padding-right: 130px;
         
+    }
+    .volver{
+        font-size: 20px;
     }
     
 }
@@ -133,6 +139,9 @@ li{
         padding-right: 110px;
         
     }
+    .volver{
+        font-size: 20px;
+    }
    
 }
 
@@ -144,6 +153,9 @@ li{
         padding-bottom: 10px;
         padding-right: 90px;
         
+    }
+    .volver{
+        font-size: 20px;
     }
    
 }
@@ -157,6 +169,9 @@ li{
         padding-right: 56px;
         
     }
+    .volver{
+        font-size: 20px;
+    }
    
 }
 
@@ -168,6 +183,9 @@ li{
         padding-bottom: 10px;
         padding-right: 90px;
         
+    }
+    .volver{
+        font-size: 20px;
     }
     
 }
@@ -202,7 +220,7 @@ li{
         height: 300px;
         padding-top: 10px;
         padding-bottom: 10px;
-        padding-right: 78px;
+        padding-right: 66px;
         
     }
     

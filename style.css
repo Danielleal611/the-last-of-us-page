@@ -127,6 +127,13 @@ li{
     .volver{
         font-size: 20px;
     }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
+    }
+
     
 }
 
@@ -141,6 +148,12 @@ li{
     }
     .volver{
         font-size: 20px;
+    }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
     }
    
 }
@@ -157,6 +170,12 @@ li{
     .volver{
         font-size: 20px;
     }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
+    }
    
 }
 
@@ -171,6 +190,12 @@ li{
     }
     .volver{
         font-size: 20px;
+    }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
     }
    
 }
@@ -187,6 +212,12 @@ li{
     .volver{
         font-size: 20px;
     }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
+    }
     
 }
 
@@ -198,6 +229,12 @@ li{
         padding-bottom: 10px;
         padding-right: 90px;
         
+    }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
     }
  
 }
@@ -211,6 +248,12 @@ li{
         padding-right: 90px;
         
     }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
+    }
   
 }
 
@@ -222,6 +265,12 @@ li{
         padding-bottom: 10px;
         padding-right: 66px;
         
+    }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
     }
     
 }
@@ -242,6 +291,12 @@ li{
         padding-bottom: 10px;
         padding-right: 46px;
     }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
+    }
 }
 
 @media(max-width: 340px){
@@ -254,6 +309,12 @@ li{
         width: 0%;
         height: 0%;
         padding: 0;
+    }
+    section article,p{
+        font-size: 14px;
+    }
+    li{
+        font-size: 16px;
     }
 }
 
